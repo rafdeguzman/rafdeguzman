@@ -1,6 +1,6 @@
 
 <h1 align="center">hi, i'm rafael vincent</h1>
-<h3 align="center">i'm a computer science student in concordia university.</h3>
+<h3 align="center">i'm a computer science student @ concordia university.</h3>
 <p> i really enjoy consumer tech</p>
 
 <p>
