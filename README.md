@@ -9,8 +9,8 @@
 
 ## About Me
 
-- 👨‍💻 I’m currently studying computer science at Concordia University.
-- 🎓 Graduated John Abbott College with a DEC in Computer Science
+- 👨‍💻 I’m currently studying computer science at Concordia University for a BCompSc.
+- 🎓 Graduated John Abbott College with a DEC in Computer Science.
 - 🌱 I’m always learning new technologies and improving my skills.
 - 💬 Ask me about computer science, math and gaming.
 - 📷 Photography and Videography are hobbies of mine.
